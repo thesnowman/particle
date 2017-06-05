@@ -1,13 +1,13 @@
 {
   "name": "particle",
   "version": "1.0.0",
-  "description": "",
+  "description": "![](./particle.jpg)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Nathan Randecker",
-  "license": "ISC",
+  "license": "JPL v3",
   "dependencies": {
     "browser-sync": "^2.18.6",
     "gulp": "^3.9.1",
@@ -17,5 +17,21 @@
     "gulp-plumber": "^1.1.0",
     "gulp-sass": "^3.1.0",
     "gulp-uglify": "^2.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thesnowman/particle.git"
+  },
+  "keywords": [
+    "jekyll",
+    "website",
+    "npm",
+    "particle",
+    "theme"
+  ],
+  "bugs": {
+    "url": "https://github.com/thesnowman/particle/issues"
+  },
+  "homepage": "https://github.com/thesnowman/particle"
 }
